@@ -1,0 +1,4 @@
+node_modules/
+prisnm/database.db
+prisnm/database.db*
+.env
